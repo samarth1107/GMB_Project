@@ -1,0 +1,467 @@
+Features for:  ACP1
+Gene Length is:  13415
+The GC Content is:  75.38461538461539
+
+
+Features for:  ACSS1
+Gene Length is:  51953
+The GC Content is:  78.46153846153847
+
+
+Features for:  ACTN1
+Gene Length is:  105244
+The GC Content is:  75.38461538461539
+
+
+Features for:  ADNP
+Gene Length is:  42520
+The GC Content is:  66.15384615384615
+
+
+Features for:  AK3
+Gene Length is:  32488
+The GC Content is:  36.92307692307693
+
+
+Features for:  ALG2
+Gene Length is:  5518
+The GC Content is:  70.76923076923077
+
+
+Features for:  ARFGEF2
+Gene Length is:  114983
+The GC Content is:  70.76923076923077
+
+
+Features for:  ATP6V0A2
+Gene Length is:  49403
+The GC Content is:  72.3076923076923
+
+
+Features for:  B3GNTL1
+Gene Length is:  109697
+The GC Content is:  75.38461538461539
+
+
+Features for:  BCL2L1
+Gene Length is:  59512
+The GC Content is:  61.53846153846154
+
+
+Features for:  BCL2L13
+Gene Length is:  102001
+The GC Content is:  66.15384615384615
+
+
+Features for:  BHLHE40
+Gene Length is:  5904
+The GC Content is:  66.15384615384615
+
+
+Features for:  BMF
+Gene Length is:  20990
+The GC Content is:  61.53846153846154
+
+
+Features for:  CAMK2G
+Gene Length is:  62091
+The GC Content is:  69.23076923076923
+
+
+Features for:  CAV2
+Gene Length is:  8804
+The GC Content is:  76.92307692307693
+
+
+Features for:  CCDC69
+Gene Length is:  43041
+The GC Content is:  75.38461538461539
+
+
+Features for:  CDC37L1
+Gene Length is:  28831
+The GC Content is:  75.38461538461539
+
+
+Features for:  CHM
+Gene Length is:  186379
+The GC Content is:  53.84615384615385
+
+
+Features for:  CLCN7
+Gene Length is:  30152
+The GC Content is:  75.38461538461539
+
+
+Features for:  CLTCL1
+Gene Length is:  112247
+The GC Content is:  73.84615384615385
+
+
+Features for:  CMKLR1
+Gene Length is:  51304
+The GC Content is:  60.0
+
+
+Features for:  CNTN1
+Gene Length is:  379987
+The GC Content is:  64.61538461538461
+
+
+Features for:  COX16
+Gene Length is:  34603
+The GC Content is:  56.92307692307692
+
+
+Features for:  CTCF
+Gene Length is:  76660
+The GC Content is:  67.6923076923077
+
+
+Features for:  CYTH3
+Gene Length is:  110846
+The GC Content is:  81.53846153846153
+
+
+Features for:  DAD1
+Gene Length is:  24318
+The GC Content is:  66.15384615384615
+
+
+Features for:  DDIT4
+Gene Length is:  2113
+The GC Content is:  72.3076923076923
+
+
+Features for:  DHRS3
+Gene Length is:  50301
+The GC Content is:  60.0
+
+
+Features for:  DIP2B
+Gene Length is:  243673
+The GC Content is:  72.3076923076923
+
+
+Features for:  EDEM3
+Gene Length is:  64671
+The GC Content is:  63.07692307692307
+
+
+Features for:  EXD3
+Gene Length is:  116367
+The GC Content is:  75.38461538461539
+
+
+Features for:  EXOSC1
+Gene Length is:  10109
+The GC Content is:  55.38461538461539
+
+
+Features for:  FAM199X
+Gene Length is:  29450
+The GC Content is:  80.0
+
+
+Features for:  FBXO30
+Gene Length is:  70908
+The GC Content is:  30.76923076923077
+
+
+Features for:  FICD
+Gene Length is:  5934
+The GC Content is:  80.0
+
+
+Features for:  FLNC
+Gene Length is:  28869
+The GC Content is:  72.3076923076923
+
+
+Features for:  GPCPD1
+Gene Length is:  66608
+The GC Content is:  66.15384615384615
+
+
+Features for:  GSS
+Gene Length is:  27596
+The GC Content is:  66.15384615384615
+
+
+Features for:  HARBI1
+Gene Length is:  15034
+The GC Content is:  63.07692307692307
+
+
+Features for:  IKBKB
+Gene Length is:  61927
+The GC Content is:  58.46153846153847
+
+
+Features for:  ISCU
+Gene Length is:  7922
+The GC Content is:  41.53846153846154
+
+
+Features for:  ITGA5
+Gene Length is:  24006
+The GC Content is:  66.15384615384615
+
+
+Features for:  ITPR1
+Gene Length is:  354493
+The GC Content is:  58.46153846153847
+
+
+Features for:  KNOP1
+Gene Length is:  16291
+The GC Content is:  69.23076923076923
+
+
+Features for:  L3HYPDH
+Gene Length is:  32661
+The GC Content is:  36.92307692307693
+
+
+Features for:  LIMK2
+Gene Length is:  67783
+The GC Content is:  69.23076923076923
+
+
+Features for:  LSM3
+Gene Length is:  22306
+The GC Content is:  61.53846153846154
+
+
+Features for:  METTL7A
+Gene Length is:  7494
+The GC Content is:  43.07692307692308
+
+
+Features for:  NANOS1
+Gene Length is:  4017
+The GC Content is:  80.0
+
+
+Features for:  NAPB
+Gene Length is:  47001
+The GC Content is:  75.38461538461539
+
+
+Features for:  NRARP
+Gene Length is:  2641
+The GC Content is:  75.38461538461539
+
+
+Features for:  NUDCD1
+Gene Length is:  93169
+The GC Content is:  53.84615384615385
+
+
+Features for:  PDHB
+Gene Length is:  6223
+The GC Content is:  61.53846153846154
+
+
+Features for:  PFDN2
+Gene Length is:  17488
+The GC Content is:  69.23076923076923
+
+
+Features for:  PFKFB2
+Gene Length is:  27965
+The GC Content is:  56.92307692307692
+
+
+Features for:  PI16
+Gene Length is:  16575
+The GC Content is:  60.0
+
+
+Features for:  PI4K2A
+Gene Length is:  35749
+The GC Content is:  73.84615384615385
+
+
+Features for:  PIAS2
+Gene Length is:  116950
+The GC Content is:  53.84615384615385
+
+
+Features for:  PIGG
+Gene Length is:  41001
+The GC Content is:  60.0
+
+
+Features for:  PIGR
+Gene Length is:  17945
+The GC Content is:  58.46153846153847
+
+
+Features for:  PIK3IP1
+Gene Length is:  10942
+The GC Content is:  56.92307692307692
+
+
+Features for:  PIM1
+Gene Length is:  5277
+The GC Content is:  73.84615384615385
+
+
+Features for:  PLAT
+Gene Length is:  32848
+The GC Content is:  56.92307692307692
+
+
+Features for:  PLCL2
+Gene Length is:  287916
+The GC Content is:  50.76923076923077
+
+
+Features for:  PPP1R13B
+Gene Length is:  116133
+The GC Content is:  56.92307692307692
+
+
+Features for:  PPP6R3
+Gene Length is:  735
+The GC Content is:  33.89830508474576
+
+
+Features for:  PRSS16
+Gene Length is:  8920
+The GC Content is:  60.0
+
+
+Features for:  PSMD2
+Gene Length is:  9810
+The GC Content is:  75.38461538461539
+
+
+Features for:  PTDSS2
+Gene Length is:  43186
+The GC Content is:  73.84615384615385
+
+
+Features for:  R3HCC1L
+Gene Length is:  110274
+The GC Content is:  67.6923076923077
+
+
+Features for:  RAPGEF3
+Gene Length is:  24518
+The GC Content is:  66.15384615384615
+
+
+Features for:  RPS14
+Gene Length is:  7105
+The GC Content is:  66.15384615384615
+
+
+Features for:  SART3
+Gene Length is:  38960
+The GC Content is:  60.0
+
+
+Features for:  SERPINE2
+Gene Length is:  64275
+The GC Content is:  73.84615384615385
+
+
+Features for:  SLC25A18
+Gene Length is:  29787
+The GC Content is:  41.53846153846154
+
+
+Features for:  SLC27A4
+Gene Length is:  20955
+The GC Content is:  78.46153846153847
+
+
+Features for:  SLC35C2
+Gene Length is:  18475
+The GC Content is:  70.76923076923077
+
+
+Features for:  SNX25
+Gene Length is:  163784
+The GC Content is:  67.6923076923077
+
+
+Features for:  SNX5
+Gene Length is:  27195
+The GC Content is:  58.46153846153847
+
+
+Features for:  SPOCK2
+Gene Length is:  36280
+The GC Content is:  30.76923076923077
+
+
+Features for:  SRA1
+Gene Length is:  8027
+The GC Content is:  50.76923076923077
+
+
+Features for:  STEAP3
+Gene Length is:  43177
+The GC Content is:  55.38461538461539
+
+
+Features for:  SUMF1
+Gene Length is:  432569
+The GC Content is:  69.23076923076923
+
+
+Features for:  SYT8
+Gene Length is:  10038
+The GC Content is:  67.6923076923077
+
+
+Features for:  TAF13
+Gene Length is:  11864
+The GC Content is:  63.07692307692307
+
+
+Features for:  THADA
+Gene Length is:  365211
+The GC Content is:  69.23076923076923
+
+
+Features for:  TMEM168
+Gene Length is:  28027
+The GC Content is:  70.76923076923077
+
+
+Features for:  UVRAG
+Gene Length is:  329044
+The GC Content is:  61.53846153846154
+
+
+Features for:  VPS8
+Gene Length is:  240472
+The GC Content is:  70.76923076923077
+
+
+Features for:  WEE2
+Gene Length is:  22919
+The GC Content is:  30.76923076923077
+
+
+Features for:  ZEB2
+Gene Length is:  136039
+The GC Content is:  56.92307692307692
+
+
+Features for:  ZFYVE27
+Gene Length is:  23787
+The GC Content is:  75.38461538461539
+
+
+Features for:  ZNF598
+Gene Length is:  12168
+The GC Content is:  81.53846153846153
+
+
+Mean of gc content is:
+64.05349707700718
